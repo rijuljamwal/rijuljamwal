@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm **Rijul Jamwal**  
-🎯 *Aspiring Data Scientist | Python | ML Enthusiast | Power BI *  
+🎯 **`Aspiring Data Scientist | Python | ML Enthusiast | Power BI`**  
 
 > “Transforming raw data into powerful stories through analytics and visualization.”  
 
