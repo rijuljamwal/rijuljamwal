@@ -52,7 +52,7 @@ A dynamic dashboard analyzing store performance, revenue trends, and product ins
 ## 📫 Let's Connect  
 
 📧 **Email:** [rijuljamwal101@gmail.com](mailto:rijuljamwal101@gmail.com)  
-🔗 **LinkedIn:** [Add your link here]  
+🔗 **LinkedIn:** [www.linkedin.com/in/rijuljamwal@101]  
 
 <p align="center">
   <a href="mailto:rijuljamwal101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/></a>
