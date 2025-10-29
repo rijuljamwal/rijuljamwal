@@ -32,16 +32,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 📈 [Power BI Store Sales Dashboard](#)  
-A dynamic dashboard analyzing store performance, revenue trends, and product insights.  
-*Tools:* Power BI, Excel, DAX  
-
-🟢 *More projects coming soon — stay tuned!*  
-
----
-
 ## 🌱 What I’m Working On  
 - Deepening my knowledge in **Machine Learning algorithms**  
 - Enhancing my **data storytelling** and visualization skills  
@@ -51,7 +41,7 @@ A dynamic dashboard analyzing store performance, revenue trends, and product ins
 
 ## 📫 Let's Connect  
 
-📧 **Email:** [rijuljamwal101@gmail.com](mailto:rijuljamwal101@gmail.com)  
+📧 **Email:** [rijuljamwal101@gmail.com] 
 🔗 **LinkedIn:** [www.linkedin.com/in/rijuljamwal@101]  
 
 <p align="center">
