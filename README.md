@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Rijul Jamwal**  
+# **Rijul Jamwal**  
 🚀 **Data Scientist | Machine Learning Engineer | Analytics | Power BI**  
 
 <p align="center">
