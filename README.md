@@ -17,24 +17,25 @@
 
 ---
 
-## 🔥 GitHub Stats  
+## 🏆 Profile Highlights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+- 📊 Completed multiple **end-to-end ML projects**  
+- 🧠 Strong foundation in **Statistics & Data Analysis**  
+- ⚙️ Hands-on with **real-world datasets**  
+- 📈 Focused on **business problem-solving using data**  
+- 🚀 Continuously improving through practical implementation  
 
 ---
 
 ## 📊 Top Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 - **Programming:** Python, SQL  
