@@ -2,7 +2,7 @@
 🚀 **Data Scientist | Machine Learning Engineer | Analytics | Power BI**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Dashboard+Creator;Turning+Data+into+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Scientist;Machine+Learning+Engineer;Power+BI+Dashboard+Creator;Turning+Data+into+Insights"/>
 </p>
 
 ---
@@ -29,7 +29,12 @@
 ## 📊 Top Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
 </p>
 
 - **Programming:** Python, SQL  
@@ -73,23 +78,3 @@
 - 🌍 Real-world datasets & case studies  
 
 ---
-
-## 🧩 Workflow  
-
-```text
-Problem → Data Cleaning → EDA → Feature Engineering → Model → Evaluation → Insights
-
-🏆 GitHub Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/> </p>
-📫 Connect With Me
-<p align="center"> <a href="mailto:rijuljamwal101@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/> </a> <a href="https://www.linkedin.com/in/rijuljamwal101"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
-⚡ ATS Keywords
-
-Data Science Machine Learning Python SQL Power BI
-EDA Feature Engineering Regression Classification
-Data Visualization Predictive Modeling Statistics
-
-💡 Quote
-
-“Turning raw data into meaningful insights that drive decisions.”
-
